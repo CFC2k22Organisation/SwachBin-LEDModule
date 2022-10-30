@@ -1,1 +1,1 @@
-# SwatchBin-LEDModule
+# SwachBin-LEDModule

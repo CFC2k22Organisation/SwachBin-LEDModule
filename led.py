@@ -1,4 +1,4 @@
-#Code written for IBM Call for code 2K22 (SwachBin)
+# SwachBin - LED Module
 import RPi.GPIO as GPIO
 import time
 
